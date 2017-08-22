@@ -1,0 +1,22 @@
+{
+  "name": "biffbangpow/silverstripe-cookie-notice",
+  "description": "Adds a cookie notice when a user first visits your SilverStripe site.",
+  "keywords": [
+    "silverstripe",
+    "cookie"
+  ],
+  "type": "silverstripe-module",
+  "require": {
+    "sheadawson/silverstripe-linkable": "^1.3"
+  },
+  "extra": {
+    "installer-name": "bbp-cookie-notice"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "James Heathcote",
+      "email": "james.h@biffbangpow.com"
+    }
+  ]
+}

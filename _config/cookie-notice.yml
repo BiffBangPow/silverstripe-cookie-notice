@@ -1,0 +1,17 @@
+---
+Name: bbp-cookie-notice
+After:
+  - 'framework/*'
+  - 'cms/*'
+Only:
+  moduleexists: 'cms'
+---
+SiteConfig:
+  extensions:
+    - CookieNoticeSiteConfigExtension
+Page:
+  extensions:
+    - CookieNoticePageExtension
+ContentController:
+  extensions:
+    - CookieNoticePageControllerExtension

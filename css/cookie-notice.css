@@ -1,0 +1,25 @@
+#CookieNotice {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    min-height: 50px;
+    color: white;
+    padding: 20px;
+}
+#CookieNotice a {
+    color: white;
+    font-weight: bold;
+}
+#CookieNotice a:hover {
+    color: white;
+}
+#CookieNotice p {
+    margin-bottom: 0;
+    text-align: center;
+}
+#CookieNotice .btn {
+    min-width: 0;
+    margin-left: 10px;
+}
