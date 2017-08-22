@@ -1,6 +1,7 @@
 {
   "name": "biffbangpow/silverstripe-cookie-notice",
   "description": "Adds a cookie notice when a user first visits your SilverStripe site.",
+  "version": "0.1.0",
   "keywords": [
     "silverstripe",
     "cookie"
