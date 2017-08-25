@@ -6,7 +6,7 @@ Adds a cookie notice when a user first visits your SilverStripe site.
 SilverStripe 3.1 or higher
 
 ## Installation
-```composer require biffbangpow/silverstripe-cookie-notice```
+```composer require BiffBangPow/silverstripe-cookie-notice```
 
 ## Usage
 1. Composer install or unpack the module in the root of your project
